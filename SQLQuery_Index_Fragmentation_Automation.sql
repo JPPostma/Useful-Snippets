@@ -1,4 +1,4 @@
-USE [QSS_ENT]
+USE [QSS_ENT] -- DB Name
 GO
 
 SET NOCOUNT ON;
